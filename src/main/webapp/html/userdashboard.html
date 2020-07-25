@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+<meta charset="UTF-8"><base>
+
+<!-- <link rel = "stylesheet" type = "text/css" href = "../css/employeehome.css"> -->
+<link rel="stylesheet"
+    href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+<!-- <link rel = "stylesheet" type = "text/css" href = "../css/blurredimage.css"> -->
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+    integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+    crossorigin="anonymous"></script>
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+    integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+    crossorigin="anonymous"></script>
+<script
+    src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+    integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+    crossorigin="anonymous"></script>
+<title>ERS User Dashboard</title>
+</head>
+
+<body background = "https://imgur.com/FXAQU9u.png">
+
+<nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="#" class="navbar-left"><font color="AFEEEE">Camberden Reimbursements</font></a>
+   <form method="post" action="/Projectone/logout">
+		<input type="submit" value="Logout">	
+	</form>
+</nav>
+
+<p><br><br><br><br><br><br></p>
+
+
+
+<div class="jumbotron">
+
+  <h1 class="display-4">Hello there, <font color=#00008B><span id="REPLACE">user.</span></font><br></h1>
+   <h1 id="testo2"></h1>
+<!--    <button id="load" id="REPLACE" onclick="sendSessionName()">TEST BUTTON</button>  
+ -->   	
+
+  
+  <p class="lead"><br>Below, you may view your reimbursement requests or submit for a new request.<br></p>
+  
+    <hr class="my-4">
+  
+    <h3>View Requests</h3>
+    <p>Click the dropdown below to display further details.<br></p>
+    <p><i>Request Statuses as 10 are Pending, as 20 are Denied, and as 30 are Approved.</i><br></p>
+  
+  
+  <!-- INPUT CARD DIVS HERE WHEN YOU CAN RETRIVE INFO FROM THE REIMBURSEMENT OBJECTS! -->
+    <!-- MAKE EACH CARD AN HTML OBJECT TO PASS AND POPULATE FROM AJAX! -->
+  
+  
+  <div class="accordion" id="accordionUserDashboard">
+  
+  <div class="card">
+    <div class="card-header" id="card-id">
+      <h2 class="mb-0">
+      
+        <button class="btn btn-link collapsed" type="button" id="reimbursementcard" data-toggle="collapse"
+        
+        data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        
+           All Reimbursement Claims<span id="timestamp-id"></span>
+        </button>
+        
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="heading" data-parent="#accordionUserDashboard">
+      <div class="card-body" id="testo-card">
+      
+			<table id="tabletable"></table>
+			
+		</div>
+	</div>
+</div>
+			
+			
+</div>
+  
+  
+  
+
+
+
+
+
+
+<!-- <div id="ohoh"><p>================================================</p></div>
+<div id="superinsert"></div>
+<div id="ohoh"><p>================================================</p></div> -->
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+  <hr class="my-4">
+  
+  <h3>Submit Requests</h3>
+  <p class="lead">
+
+   <form method="post" action="/Projectone/submit">
+  <div class="form-group">
+    <label for="exampleInputEmail1">Amount</label>
+      <div class="input-group mb-2">
+        <div class="input-group-prepend">
+          <div class="input-group-text">$</div>
+        </div>
+    <input type="text" class="form-control" id="inputUsername" aria-describedby="emailHelp" 
+    name="amountConfirm" placeholder="Input Claimed Amount in USD">
+      </div>
+ 	</div>
+ 
+   <div class="form-group">
+    <label for="exampleFormControlSelect1">Select Reimbursement Type:</label>
+    <select class="form-control" id="exampleFormControlSelect1" name="typeConfirm">
+      <option>Select an Option</option>
+      <option value="100">Lodging (100)</option>
+      <option value="200">Travel (200)</option>
+      <option value="300">Food (300)</option>
+      <option value="400">Other(400)</option>
+    </select>
+  <br>
+  
+  <button id="jsbuttontransform" type="submit" class="btn btn-primary">Submit</button>
+</div>
+</form>
+
+
+
+
+
+
+<form method="post" action = "/Projectone/helpserv">
+<input type ="submit" value ="Obtain Session User">
+</form>
+	
+	
+
+
+</div>
+
+
+
+<script type="text/javascript" src="../javascript/userscriptor.js"></script>
+</body>
+
+</html>

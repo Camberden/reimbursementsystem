@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" version="2.5">
+  <display-name>Projectone</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+ <!--    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file> -->
+  </welcome-file-list>
+  
+  
+  
+     <!-- Direct Servlet Configurations -->
+  
+
+  
+   <!-- Session Servlet Configurations -->
+  <servlet>
+  	<servlet-name>SessionServletP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.SessionServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>SessionServletP1</servlet-name>
+  	<url-pattern>/sessionlogon</url-pattern>
+  </servlet-mapping>
+  
+     <!-- Helper Servlet Configurations -->
+   <servlet>
+  	<servlet-name>HtmlBlockServletP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.HtmlBlockServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>HtmlBlockServletP1</servlet-name>
+  	<url-pattern>/helpserv</url-pattern>
+  </servlet-mapping>
+  
+       <!-- Logout Servlet Configurations -->
+  
+  <servlet>
+  	<servlet-name>LogoutServletP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.LogoutServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>LogoutServletP1</servlet-name>
+  	<url-pattern>/logout</url-pattern>
+  </servlet-mapping>
+  
+      <!-- Submission Servlet Configurations -->
+  
+  <servlet>
+  	<servlet-name>SubmissionServletP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.SubmissionServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>SubmissionServletP1</servlet-name>
+  	<url-pattern>/submit</url-pattern>
+  </servlet-mapping>
+  
+        <!-- JSON Servlet Configurations -->
+  
+  <servlet>
+  	<servlet-name>CentralServlet</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.CentralServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>CentralServlet</servlet-name>
+  	<url-pattern>*.json</url-pattern>
+  </servlet-mapping>
+    
+ <servlet>
+  	<servlet-name>JSONServletHelperP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.JSONServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>JSONServletHelperP1</servlet-name>
+  	<url-pattern>/jsonservlethelperp1</url-pattern>
+  </servlet-mapping>
+  
+          <!-- Manager Servlet Configurations -->
+  
+   <servlet>
+  	<servlet-name>ManagerServletP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.ManagerServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>ManagerServletP1</servlet-name>
+  	<url-pattern>/jsonmanager</url-pattern>
+  </servlet-mapping>
+  
+  	<!--  Insertion Servlet Configurations -->
+  
+  
+   <servlet>
+  	<servlet-name>RequestHelperServletP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.RequestHelperServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>RequestHelperServletP1</servlet-name>
+  	<url-pattern>/requesthelper</url-pattern>
+  </servlet-mapping>
+  
+  
+  <!--  Insertion Servlet Configurations -->
+  
+  
+   <servlet>
+  	<servlet-name>DecisionServletP1</servlet-name>
+  	<servlet-class>com.chrispy.projectone.servlets.DecisionServletP1</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>DecisionServletP1</servlet-name>
+  	<url-pattern>/statusupdate</url-pattern>
+  </servlet-mapping>
+  
+  
+</web-app>

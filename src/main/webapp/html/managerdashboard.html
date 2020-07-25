@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" 
+integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+<meta charset="UTF-8">
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" 
+integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" 
+integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" 
+integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<title>ERS Manager Dashboard</title>
+</head>
+
+<body background = "https://imgur.com/FXAQU9u.png">
+
+<nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+  <a class="navbar-brand" href="#" class="navbar-left"><font color="AFEEEE">Camberden Reimbursements</font></a>
+  <form method="post" action="/Projectone/logout">
+		<input type="submit" value="Logout">	
+		</form>
+  
+</nav>
+
+<p><br><br><br><br><br><br></p>
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="jumbotron">
+
+  <h1 class="display-4">Hello there, <font color=#FF7F50>manager.</font><br></h1>  
+  
+  <p class="lead"><br>Below, you approve/deny pending requests or view past requests by user.<br></p>
+  
+    <hr class="my-4">
+  
+    <h3>View Pending Requests</h3>
+    <p>Click a ticket name to display further details.<br></p>
+  
+  
+  
+   <div class="accordion" id="accordionManagerDashboard">
+  
+  <div class="card">
+    <div class="card-header" id="card-id">
+      <h2 class="mb-0">
+      
+        <button class="btn btn-link collapsed" type="button" id="pendingformanager" data-toggle="collapse"
+        
+        data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+        
+           Pending Claims (Status: 10)<span id="timestamp-id"></span>
+        </button>
+        
+      </h2>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="heading" data-parent="#accordionManagerDashboard">
+      <div class="cd1" id="t1">
+      
+
+			<table id="tabletablePENDING"></table>
+			
+			
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+	 <hr class="my-4">
+  
+  <h3>Approve/Deny Pending Requests</h3>
+  <p class="lead">
+
+ <form method="post" action="/Projectone/statusupdate">
+ 
+  <div class="form-group">
+    <label for="exampleInputEmail1">Reimbursement Number</label>
+      <div class="input-group mb-2">
+        <div class="input-group-prepend">
+          <div class="input-group-text">#</div>
+        </div>
+    <input type="text" class="form-control" id="reimbursementIdentfier" aria-describedby="emailHelp" 
+    name="reimbursementIdentfier" placeholder="Select Reimbursement Number">
+      </div>
+ 	</div>
+ 
+   <div class="form-group">
+    <label for="exampleFormControlSelect1">Select either to Approve or Deny</label>
+    <select class="form-control" id="exampleFormControlSelect1" name="statusUpdate">
+      <option>Select an Option</option>
+      <option value="20">Deny (20)</option>
+      <option value="30">Approve (30)</option>
+    </select>
+  <br>
+  
+  <button id="jsbuttontransform" type="submit" class="btn btn-primary">Submit</button>
+</div>
+
+</form>
+
+	<form method="post" action = "/Projectone/helpserv">
+
+		<input type ="submit" value ="Obtain Session User">
+	</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <hr class="my-4">
+  
+  
+  
+  
+  <h3>View Completed Requests</h3>
+  <p class="lead">
+
+
+     <p>You may filter by approved or denied status:<br></p>
+    
+
+
+
+<!-- APPROVALS APPROVALS APPROVALS APPROVALS APPROVALS -->
+
+  <div class="accordion" id="accordionManagerApprovals">
+  
+  <div class="card">
+    <div class="card-header" id="card-id">
+      <h2 class="mb-0">
+      
+        <button class="btn btn-link collapsed" type="button" id="managerapprovals" data-toggle="collapse"
+        
+        data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        
+           Approved Claims (Status: 30)<span id="timestamp-id"></span>
+        </button>
+        
+      </h2>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="heading" data-parent="#accordionManagerApprovals">
+      <div class="cd2" id="t2">
+      
+      <p id="cardbody">
+
+			<table id="tabletableAPPROVALS"></table>
+			
+		</div>
+	</div>
+</div>
+</div>
+
+
+<!-- DENIALS DENIALS DENIALS DENIALS DENIALS -->
+
+
+ <div class="accordion" id="accordionManagerDenials">
+  
+  <div class="card">
+    <div class="card-header" id="card-id">
+      <h2 class="mb-0">
+      
+        <button class="btn btn-link collapsed" type="button" id="managerdenials" data-toggle="collapse"
+        
+        data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        
+           Denied Claims (Status: 20)<span id="timestamp-id"></span>
+        </button>
+        
+      </h2>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="heading" data-parent="accordionManagerDenials">
+      <div class="cd3" id="t3">
+      
+      	      <p id="cardbody3"></p>
+      	
+
+			<table id="tabletableDENIALS"></table>
+			
+			
+		</div>
+	</div>
+</div>
+</div>
+
+</div>
+
+<script type="text/javascript" src="../javascript/managerscriptor.js"></script>
+
+
+
+</body>
+
+</html>

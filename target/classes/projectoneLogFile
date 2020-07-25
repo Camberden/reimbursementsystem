@@ -1,0 +1,405 @@
+2020-03-03 14:17:44 INFO  MainDriver:29 - chrispy logged in!
+2020-03-03 15:02:18 INFO  MainDriver:29 - chrispy logged in!
+2020-03-03 15:05:09 INFO  MainDriver:29 - chrispy logged in!
+2020-03-04 01:01:59 INFO  MainDriver:59 - chicken log on failure!
+2020-03-04 09:55:47 INFO  MainDriver:56 - chrispy logged in as user!
+2020-03-04 09:59:46 INFO  MainDriver:116 - SQLException @ verifyUserCredentials
+2020-03-04 09:59:46 INFO  MainDriver:56 - chrispy logged in as user!
+2020-03-04 10:00:13 INFO  MainDriver:53 - chrispy logged in as admin!
+2020-03-04 10:00:37 INFO  MainDriver:56 - fawch logged in as user!
+2020-03-04 22:47:38 INFO  MainDriver:56 - fawch logged in as user!
+2020-03-04 22:54:54 INFO  MainDriver:58 - josh log on failure!
+2020-03-04 23:43:04 INFO  MainDriver:38 - Employee [username=suwa, password=sass, firstName=Bir, lastName=Sunuwar, email=b@geodis.com, roleId=0] registered!
+2020-03-04 23:53:18 INFO  MainDriver:38 - Employee [username=hoho, password=hoho, firstName=Hooh, lastName=Hoho, email=h@oh.com, roleId=0] registered!
+2020-03-06 19:43:03 INFO  MainDriver:57 - fawch logged in as user!
+2020-03-06 19:45:32 INFO  MainDriver:59 - fawch log on failure!
+2020-03-06 19:46:09 INFO  MainDriver:57 - fawch logged in as user!
+2020-03-06 19:46:25 INFO  MainDriver:54 - chrispy logged in as admin!
+2020-03-06 20:55:13 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 20:55:28 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 20:55:53 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 20:56:30 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 20:56:41 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:00:22 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:00:52 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:02:08 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:04:59 INFO  MainDriver:57 - fawch logged in as user!
+2020-03-06 21:10:36 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:10:45 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:11:09 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:12:25 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:12:29 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:12:38 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:14:35 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:14:48 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:14:54 INFO  UserDaoImpl:161 - SQLException @ getUser
+2020-03-06 21:32:53 INFO  MainDriver:58 - fawch logged in as user!
+2020-03-06 21:35:58 INFO  MainDriver:78 - fawch logged in as user!
+2020-03-06 21:37:27 INFO  MainDriver:79 - fawch logged in as user!
+2020-03-06 21:42:40 INFO  MainDriver:82 - fawch logged in as user!
+2020-03-06 21:52:08 INFO  UserDaoImpl:194 - SQLException @ getUser
+2020-03-06 21:52:37 INFO  UserDaoImpl:194 - SQLException @ getUser
+2020-03-06 21:52:41 INFO  UserDaoImpl:194 - SQLException @ getUser
+2020-03-06 21:54:25 INFO  UserDaoImpl:194 - SQLException @ getUser
+2020-03-06 22:01:13 INFO  UserDaoImpl:194 - SQLException @ getUserAsList
+2020-03-06 22:01:41 INFO  UserDaoImpl:194 - SQLException @ getUserAsList
+2020-03-06 22:04:23 INFO  UserDaoImpl:194 - SQLException @ getUserAsList
+2020-03-06 22:04:57 INFO  UserDaoImpl:194 - SQLException @ getUserAsList
+2020-03-06 22:15:06 INFO  UserDaoImpl:194 - SQLException @ getUserAsList
+2020-03-06 22:18:34 INFO  UserDaoImpl:194 - SQLException @ getUserAsList
+2020-03-06 22:26:53 INFO  UserDaoImpl:159 - SQLException @ getUser
+2020-03-06 22:26:53 INFO  MainDriver:91 - fawch logged in as user!
+2020-03-06 22:27:49 INFO  MainDriver:91 - fawch logged in as user!
+2020-03-06 22:31:30 INFO  UserDaoImpl:159 - SQLException @ getUser
+2020-03-06 22:32:47 INFO  UserDaoImpl:159 - SQLException @ getUser
+2020-03-07 09:25:30 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 09:25:36 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 10:01:21 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 10:01:36 INFO  SessionServletP1:39 - chrispy logged in as manager!
+2020-03-07 10:02:02 INFO  SessionServletP1:49 - ,: log on failure!
+2020-03-07 10:02:53 INFO  SessionServletP1:49 - nesto: log on failure!
+2020-03-07 10:03:02 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 10:03:11 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 10:19:02 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 10:19:13 INFO  SessionServletP1:49 - asdf: log on failure!
+2020-03-07 10:32:59 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 11:16:25 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 11:17:21 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 11:17:37 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 11:30:54 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 11:30:56 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 11:30:57 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 11:31:00 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 11:31:13 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 11:33:30 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 11:33:48 INFO  ReimbursementDaoImpl:33 - SQLException @ submitReimbursementRequest
+2020-03-07 11:34:36 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 11:34:41 INFO  ReimbursementDaoImpl:41 - SQLException @ submitReimbursementRequest
+2020-03-07 11:40:01 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 11:40:06 INFO  ReimbursementDaoImpl:41 - SQLException @ submitReimbursementRequest
+2020-03-07 12:12:26 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:17:25 INFO  ReimbursementDaoImpl:44 - SQLException @ submitReimbursementRequest
+2020-03-07 12:23:14 INFO  ReimbursementDaoImpl:51 - SQLException @ submitReimbursementRequest
+2020-03-07 12:23:39 INFO  ReimbursementDaoImpl:51 - SQLException @ submitReimbursementRequest
+2020-03-07 12:24:27 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:24:37 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:24:46 INFO  ReimbursementDaoImpl:51 - SQLException @ submitReimbursementRequest
+2020-03-07 12:25:59 INFO  ReimbursementDaoImpl:46 - SQLException @ submitReimbursementRequest
+2020-03-07 12:29:55 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 12:29:58 INFO  SessionServletP1:39 - chrispy logged in as manager!
+2020-03-07 12:30:05 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:31:22 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:31:28 INFO  ReimbursementDaoImpl:46 - SQLException @ submitReimbursementRequest
+2020-03-07 12:34:03 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:34:08 INFO  ReimbursementDaoImpl:47 - SQLException @ submitReimbursementRequest
+2020-03-07 12:44:10 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:44:15 INFO  ReimbursementDaoImpl:53 - SQLException @ submitReimbursementRequest
+2020-03-07 12:45:14 INFO  ReimbursementDaoImpl:53 - SQLException @ submitReimbursementRequest
+2020-03-07 12:48:24 INFO  ReimbursementDaoImpl:52 - SQLException @ submitReimbursementRequest
+2020-03-07 12:49:58 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:55:03 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:55:15 INFO  ReimbursementDaoImpl:51 - SQLException @ submitReimbursementRequest
+2020-03-07 12:55:34 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 12:55:41 INFO  ReimbursementDaoImpl:51 - SQLException @ submitReimbursementRequest
+2020-03-07 12:57:03 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 12:57:12 INFO  ReimbursementDaoImpl:50 - SQLException @ submitReimbursementRequest
+2020-03-07 12:59:58 INFO  ReimbursementDaoImpl:50 - SQLException @ submitReimbursementRequest
+2020-03-07 13:05:57 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:06:04 INFO  ReimbursementDaoImpl:50 - SQLException @ submitReimbursementRequest
+2020-03-07 13:10:46 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:18:30 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 13:24:07 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:43:01 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:48:04 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:50:45 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:51:58 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:53:40 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 13:59:48 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 14:07:11 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 14:09:55 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 14:19:49 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 14:20:53 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 14:35:01 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 14:38:57 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 14:39:57 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 15:36:54 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 15:39:17 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 15:39:24 INFO  ReimbursementDaoImpl:50 - SQLException @ submitReimbursementRequest
+2020-03-07 15:40:27 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 15:40:35 INFO  ReimbursementDaoImpl:50 - SQLException @ submitReimbursementRequest
+2020-03-07 15:46:46 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 15:51:11 INFO  SessionServletP1:39 - chrispy logged in as manager!
+2020-03-07 15:58:48 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 16:52:13 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 17:02:15 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:02:15 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:15 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:15 INFO  SessionServletP1:49 - fawch: log on failure!
+2020-03-07 17:02:20 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:02:20 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:20 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:20 INFO  SessionServletP1:49 - fawch: log on failure!
+2020-03-07 17:02:23 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:02:23 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:23 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:23 INFO  SessionServletP1:49 - fawch: log on failure!
+2020-03-07 17:02:59 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:02:59 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:59 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:02:59 INFO  SessionServletP1:49 - chrispy: log on failure!
+2020-03-07 17:03:01 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:01 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:01 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:01 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 17:03:04 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:04 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  SessionServletP1:49 - fawch: log on failure!
+2020-03-07 17:03:04 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:04 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 17:03:04 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:04 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 17:03:04 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:04 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:04 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 17:03:05 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:05 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:05 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:05 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 17:03:05 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:05 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:05 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:05 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 17:03:05 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:05 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:05 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:05 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 17:03:07 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:03:07 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:07 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:03:07 INFO  SessionServletP1:49 - chrispy: log on failure!
+2020-03-07 17:04:40 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:04:40 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:04:40 INFO  UserDaoImpl:166 - SQLException @ getUser
+2020-03-07 17:04:40 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:04:40 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:04:40 INFO  UserDaoImpl:60 - SQLException @ verifyUserCredentials
+2020-03-07 17:04:40 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:04:40 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:04:40 INFO  UserDaoImpl:123 - SQLException @ verifyUserCredentials
+2020-03-07 17:04:40 INFO  SessionServletP1:49 - fawch: log on failure!
+2020-03-07 17:04:40 INFO  SessionServletP1:49 - fawch: log on failure!
+2020-03-07 17:04:40 INFO  SessionServletP1:49 - fawch: log on failure!
+2020-03-07 17:18:59 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 17:41:23 INFO  SessionServletP1:39 - chrispy logged in as manager!
+2020-03-07 17:41:59 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 18:19:48 INFO  SessionServletP1:49 - : log on failure!
+2020-03-07 18:19:51 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 18:45:34 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 18:52:27 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 19:52:29 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 19:53:04 INFO  SessionServletP1:39 - chrispy logged in as manager!
+2020-03-07 20:31:47 INFO  SessionServletP1:49 - that is what I would like from you, you knwo : log on failure!
+2020-03-07 20:51:13 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 20:53:59 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 21:06:32 INFO  SessionServletP1:45 - fawch logged in as user!
+2020-03-07 21:07:08 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 21:13:06 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 21:27:52 INFO  SessionServletP1:45 - nesto logged in as user!
+2020-03-07 22:27:24 INFO  SessionServletP1:44 - fawch logged in as user!
+2020-03-07 23:23:52 INFO  ReimbursementDaoImpl:109 - SQLException @ updateReimbursementStatus
+2020-03-07 23:23:59 INFO  ReimbursementDaoImpl:109 - SQLException @ updateReimbursementStatus
+2020-03-08 00:28:45 INFO  SessionServletP1:44 - fawch logged in as user!
+2020-03-08 00:34:41 INFO  SessionServletP1:44 - nesto logged in as user!
+2020-03-08 01:17:01 INFO  SessionServletP1:44 - fawch logged in as user!
+2020-03-08 01:26:08 INFO  SessionServletP1:44 - fawch logged in as user!
+2020-03-08 01:28:22 INFO  SessionServletP1:44 - fawch logged in as user!
+2020-03-08 13:10:33 INFO  SessionServletP1:44 - nesto logged in as user!
+2020-03-08 13:13:26 INFO  ReimbursementDaoImpl:56 - SQLException @ submitReimbursementRequest
+2020-03-08 13:57:46 INFO  SessionServletP1:44 - fawch logged in as user!
+2020-03-08 14:25:07 INFO  SessionServletP1:44 - fawch logged in as user!
+2020-03-08 14:40:28 INFO  SessionServletP1:50 - nesto: log on failure!
+2020-03-08 14:40:33 INFO  SessionServletP1:46 - nesto logged in as user!
+2020-03-08 14:44:37 INFO  SessionServletP1:46 - nesto logged in as user!
+2020-03-08 15:02:39 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:06:25 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:12:14 INFO  SessionServletP1:46 - nesto logged in as user!
+2020-03-08 15:13:00 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:13:50 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:16:48 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:35:05 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:39:42 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:43:48 INFO  SessionServletP1:50 - : log on failure!
+2020-03-08 15:43:57 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:45:28 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 15:48:59 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 16:47:12 INFO  SessionServletP1:46 - fawch logged in as user!
+2020-03-08 17:02:25 INFO  SessionServletP1:53 - nesto logged in as user!
+2020-03-08 17:17:44 INFO  SessionServletP1:57 - chrispt: log on failure!
+2020-03-08 17:17:57 INFO  SessionServletP1:47 - chrispy logged in as manager!
+2020-03-08 18:26:47 INFO  SessionServletP1:47 - chrispy logged in as manager!
+2020-03-08 19:18:47 INFO  SessionServletP1:53 - fawch logged in as user!
+2020-03-08 19:20:58 INFO  SessionServletP1:47 - chrispy logged in as manager!
+2020-03-08 20:02:14 INFO  SessionServletP1:53 - nesto logged in as user!
+2020-03-08 20:28:00 INFO  SessionServletP1:47 - chrispy logged in as manager!
+2020-03-08 22:22:44 INFO  SessionServletP1:49 - fawch logged in as user!
+2020-03-09 01:33:44 INFO  SessionServletP1:83 - fawch logged in as user!
+2020-03-09 20:11:33 INFO  SessionServletP1:29 - Attempting JSON object routing: null
+2020-03-09 21:02:30 INFO  SessionServletP1:82 - fawch logged in as user!
+2020-03-09 21:04:23 INFO  SessionServletP1:86 - Fawch: log on failure!
+2020-03-09 21:04:24 INFO  SessionServletP1:86 - Fawch: log on failure!
+2020-03-09 21:04:42 INFO  SessionServletP1:82 - fawch logged in as user!
+2020-03-09 21:18:25 INFO  SessionServletP1:82 - fawch logged in as user!
+2020-03-09 22:56:26 INFO  SessionServletP1:82 - fawch logged in as user!
+2020-03-09 22:58:30 INFO  SessionServletP1:76 - chrispy logged in as manager!
+2020-03-11 19:20:25 INFO  SessionServletP1:76 - chrispy logged in as manager!
+2020-03-11 20:14:42 INFO  SessionServletP1:76 - chrispy logged in as manager!
+2020-03-11 20:42:57 INFO  SessionServletP1:76 - chrispy logged in as manager!
+2020-03-12 09:19:17 INFO  SessionServletP1:75 - chrispy logged in as manager!
+2020-03-12 09:19:56 INFO  SessionServletP1:75 - chrispy logged in as manager!
+2020-03-12 09:22:45 INFO  SessionServletP1:81 - fawch logged in as user!
+2020-03-12 10:50:16 INFO  SessionServletP1:81 - fawch logged in as user!
+2020-03-12 10:50:59 INFO  SessionServletP1:81 - fawch logged in as user!
+2020-03-12 10:51:39 INFO  SessionServletP1:75 - chrispy logged in as manager!
+2020-03-12 10:52:01 INFO  SessionServletP1:81 - fawch logged in as user!
+2020-03-12 11:02:50 INFO  SessionServletP1:81 - nesto logged in as user!
+2020-03-12 12:49:51 INFO  SessionServletP1:80 - nesto logged in as user!
+2020-03-12 12:57:43 INFO  SessionServletP1:74 - chrispy logged in as manager!
+2020-03-12 13:07:11 INFO  SessionServletP1:80 - fawch logged in as user!
+2020-03-12 13:45:31 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 13:45:42 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:02:36 INFO  SessionServletP1:68 - chrispy logged in as manager!
+2020-03-12 14:05:44 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:26:01 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:32:05 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:32:39 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:33:53 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:54:31 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:57:39 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 14:59:06 INFO  SessionServletP1:68 - chrispy logged in as manager!
+2020-03-12 15:02:15 INFO  SessionServletP1:78 - : log on failure!
+2020-03-12 15:02:25 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 15:02:37 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 15:09:38 INFO  SessionServletP1:74 - fawch logged in as user!
+2020-03-12 18:09:18 INFO  SessionServletP1:78 - fawch logged in as user!
+2020-03-12 18:15:24 INFO  SessionServletP1:72 - chrispy logged in as manager!
+2020-03-12 18:15:34 INFO  SessionServletP1:72 - chrispy logged in as manager!
+2020-03-12 18:31:29 INFO  SessionServletP1:78 - fawch logged in as user!
+2020-03-12 18:49:26 INFO  SessionServletP1:78 - fawch logged in as user!
+2020-03-12 19:02:58 INFO  SessionServletP1:78 - fawch logged in as user!
+2020-03-12 19:03:07 INFO  SessionServletP1:72 - chrispy logged in as manager!
+2020-03-12 19:12:17 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 19:24:55 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 19:27:43 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 19:29:44 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 19:31:33 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 19:33:44 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 19:42:07 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 19:44:39 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 19:47:05 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 19:52:25 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:52:26 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:52:27 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:52:28 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:52:30 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:55:13 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:55:14 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:55:14 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 19:57:30 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 19:57:31 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 20:01:30 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:01:32 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 20:02:09 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 20:02:09 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 20:02:10 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 20:02:11 INFO  ReimbursementDaoImpl:163 - SQLException @ selectAllReimbursementsByName
+2020-03-12 20:02:50 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:05:41 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:21:50 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:25:47 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:26:45 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:41:34 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:46:53 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 20:48:18 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 21:08:49 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 21:11:12 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 21:12:40 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 21:19:29 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 21:41:47 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 21:42:55 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 21:52:41 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 22:08:02 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 22:13:36 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 22:14:56 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 22:18:46 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 22:21:47 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 22:23:30 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 22:30:39 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 22:38:18 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-12 22:41:30 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 22:42:38 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-12 22:57:06 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-12 22:57:26 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-12 23:00:19 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-12 23:20:31 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-12 23:22:03 INFO  SessionServletP1:54 - : log on failure!
+2020-03-12 23:22:08 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-12 23:22:37 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 00:21:46 INFO  ReimbursementDaoImpl:98 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 00:25:21 INFO  ReimbursementDaoImpl:98 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 00:25:28 INFO  ReimbursementDaoImpl:98 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 00:33:49 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 04:57:31 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 04:57:57 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 05:11:50 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 05:15:01 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 05:16:26 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 05:52:52 INFO  ReimbursementDaoImpl:99 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 05:52:52 INFO  ReimbursementDaoImpl:99 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 05:53:37 INFO  ReimbursementDaoImpl:99 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 05:53:37 INFO  ReimbursementDaoImpl:99 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 05:54:27 INFO  ReimbursementDaoImpl:99 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 05:54:27 INFO  ReimbursementDaoImpl:99 - SQLException @ selectAllReimbursementsByStatus
+2020-03-13 05:56:58 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 05:57:17 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 06:03:07 INFO  SessionServletP1:50 - lwr logged in as user!
+2020-03-13 06:03:30 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 06:08:10 INFO  SessionServletP1:50 - lwr logged in as user!
+2020-03-13 06:08:24 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 06:11:24 INFO  ReimbursementDaoImpl:74 - SQLException @ updateReimbursementStatus
+2020-03-13 06:11:38 INFO  ReimbursementDaoImpl:74 - SQLException @ updateReimbursementStatus
+2020-03-13 06:15:59 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 06:19:25 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 06:33:54 INFO  SessionServletP1:54 - dennis: log on failure!
+2020-03-13 06:35:11 INFO  SessionServletP1:50 - lwr logged in as user!
+2020-03-13 06:40:29 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 06:41:48 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 06:47:40 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 06:51:13 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 06:55:41 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 07:04:40 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 07:10:23 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 07:11:43 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 08:55:49 INFO  SessionServletP1:54 - lwr: log on failure!
+2020-03-13 08:55:52 INFO  SessionServletP1:54 - lwr: log on failure!
+2020-03-13 08:55:59 INFO  SessionServletP1:50 - lwr logged in as user!
+2020-03-13 09:03:47 INFO  SessionServletP1:50 - lwr logged in as user!
+2020-03-13 09:04:38 INFO  SessionServletP1:54 - : log on failure!
+2020-03-13 09:04:43 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 10:01:20 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 10:03:10 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 10:03:55 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 10:07:25 INFO  SessionServletP1:54 - w: log on failure!
+2020-03-13 10:07:52 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 10:07:52 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-13 10:10:19 INFO  SessionServletP1:44 - chrispy logged in as manager!
+2020-03-13 10:38:02 INFO  SessionServletP1:50 - nesto logged in as user!
+2020-03-14 23:58:43 INFO  SessionServletP1:54 - mocha: log on failure!
+2020-03-14 23:58:53 INFO  SessionServletP1:54 - mocha: log on failure!
+2020-03-14 23:58:59 INFO  SessionServletP1:50 - fawch logged in as user!
+2020-03-15 00:00:32 INFO  SessionServletP1:44 - chrispy logged in as manager!
